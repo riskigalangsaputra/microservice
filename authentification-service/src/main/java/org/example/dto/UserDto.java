@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data @AllArgsConstructor
-public class UserSchool {
+public class UserDto {
 
     private String id;
     private String email;
