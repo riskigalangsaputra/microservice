@@ -1,0 +1,9 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: auth-service
+
+jwt:
+  secret: demo-abc
+  expiration: 86400
